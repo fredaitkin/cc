@@ -22,6 +22,11 @@ A team office chore scheduling and tracking app. Members are assigned recurring 
 | `client/src/components/` | `CalendarView`, `ChoreList`, `ChoreForm`, `TeamManager` |
 | `client/src/types.ts` | Shared TypeScript interfaces for API responses |
 
+## Adding New Features or Fixing Bugs
+
+**IMPORTANT**: When you work on a new feature or bug, create a git branch first.
+Then work on changes in that branch for the remainder of the session.
+
 ## Commands
 
 ```bash
